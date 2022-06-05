@@ -19,5 +19,6 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I was able to compelte the bikeshare python project by referencing back to the course lessons and lots of trial and error.
+However I have referenced an external site for using issues I experienced with git. 
+https://www.codegrepper.com/code-examples/shell/add+folder+to+gitignore
