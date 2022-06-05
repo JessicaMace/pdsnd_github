@@ -8,7 +8,10 @@ Explore US Bikeshare Data
 Post your Work on GitHub
 
 ### Description
-Describe what your project is about and what it does
+This is a tool to help users navigate the Bikeshare data for three cities, Chicago, New York City, and Washington. 
+It enables the users to identify the most common times of travel, popular stations, trip durations, as well as gender and birth year information where the data is available.
+The user is able to narrow the infromation down based on city, month, and day of the week. However they can also jsut view the overall stats for each city should they choose.
+There is also the option to view the raw data files.
 
 ### Files used
 Include the files used
