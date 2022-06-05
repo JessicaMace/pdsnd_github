@@ -60,7 +60,7 @@ def get_filters():
 
     print(f"\nYou picked {day.title()}.")
     print(f"\nYou want to explore city: {city.upper()}, month: {month.upper()} and day: {day.upper()}. Let\'s Go!")
-    print('-'*40)
+    print('-'*60)
     return city, month, day
 
 #load data from .csv files
@@ -129,7 +129,7 @@ def time_stats(df):
     print(f"\nMost Popular Start Hour: {popular_hour}")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*60)
 
 #station stats section
 def station_stats(df):
@@ -156,7 +156,7 @@ def station_stats(df):
     print(f"\nThe most common trip is from: {trip}.")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
-    print('-'*40)
+    print('-'*60)
 
 #time taken stats
 def trip_duration_stats(df):
