@@ -14,7 +14,9 @@ The user is able to narrow the infromation down based on city, month, and day of
 There is also the option to view the raw data files.
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
