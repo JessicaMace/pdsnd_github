@@ -43,7 +43,7 @@ def get_filters():
             print("\nUh Oh! Double check the spelling.")
             print("\n Let\'s try again!")
 
-    print(f"\nYou have picked {month.title()}.")
+    print(f"\nYou have picked {month.title()}. Getting closer!")
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     #need a day dictionary
